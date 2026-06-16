@@ -1,0 +1,11 @@
+Variation,process_step,step_order,visits_reaching,total_visits,pct_reaching
+Control,start,0,32128,32128,1.0
+Test,start,0,37077,37077,1.0
+Control,step_1,1,24568,32128,0.7647
+Test,step_1,1,31997,37077,0.863
+Control,step_2,2,21084,32128,0.6562
+Test,step_2,2,28095,37077,0.7577
+Control,step_3,3,19046,32128,0.5928
+Test,step_3,3,25528,37077,0.6885
+Control,confirm,4,15999,32128,0.498
+Test,confirm,4,21681,37077,0.5848
