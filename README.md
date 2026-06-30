@@ -174,16 +174,7 @@ The dashboards were combined into a Tableau Story following a business storytell
 # Authors
 
 **Estefanía Barrosa Ruiz**
-
-Data Analytics | Marketing Analytics | Customer Experience Analytics
-
-GitHub: *(your GitHub profile)*
-
-LinkedIn: *(your LinkedIn profile)*
-
----
-
-**Bahar** *(Project Partner)*
+**Bahar MohseniNasab** 
 
 ---
 
